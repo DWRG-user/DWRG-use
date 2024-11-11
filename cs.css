@@ -1,0 +1,29 @@
+.搜索框{
+    width: 343px;
+    height: 46px;
+    border-radius: 22px;
+    display: flex;
+    background-color: #4a4a4a;
+
+}
+.搜索框 #q{
+    background-color: transparent;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    outline-color: transparent;
+
+}
+.搜索框 #d{
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border: none;
+    background-color: #0078d4;
+    justify-content: center;
+    flex: 70px;
+
+}
+.h1{
+
+}
